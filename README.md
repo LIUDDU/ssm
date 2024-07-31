@@ -10,7 +10,7 @@ http://localhost:8080/ssm8i489/front/dist/index.html
 
 本项目分为前台，和后台管理界面，有学生，教师，管理员角色
 
-管理员账号 admin 密码：admin
+管理员账号 admin
 
 运行界面
 
